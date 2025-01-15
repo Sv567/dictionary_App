@@ -7,7 +7,7 @@ const getInitialDB = () => {
     : [
         {
           aadhar: "312465798465",
-          name: "Santosh",
+          name: "Savita Patidar",
           age: "18",
           mobile: "1324659788",
           dob: "12/12/1205",
