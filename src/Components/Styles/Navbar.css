@@ -1,0 +1,21 @@
+.logo img {
+    width: 120px;
+    height: 80px;
+}
+
+.container {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+
+.links span{
+    text-decoration: none;
+    list-style-type: none;
+    gap: 1rem;
+    padding: 0 1rem; 
+    color: black;   
+    font-size: 25px;
+    font-weight: 700;
+
+}
